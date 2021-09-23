@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
-Cities = ['chicago' , 'new york city', 'washington']
+Cities = ['chicago' , 'new york city', 'washington', 'Maiami']
 Months = ['january' , 'february', 'march' , 'april' , 'may' , 'june' , "all" ]
 Days = ['monday' , 'tuesday', 'wednesday' , 'thursday' , 'friday' , 'saturday' , 'sunday', "all"]
 
