@@ -5,12 +5,8 @@
 ### Project Title
 Bikeshare
 ### Description
-The projet provide a statistical informaion 
-### Files used
-excel files
+ this project will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. the code will import the data and answer interesting questions about it by computing descriptive statistics.  also shows  a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-### Credits
-udacity team
+ ### Credits
 
-### Created By
-Ramy Hamzy
+Udacity team
