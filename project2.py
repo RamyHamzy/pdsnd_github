@@ -22,7 +22,7 @@ def get_filters():
     print ("Here you will input city to explore date from the available cities ,from the following :-")
     for city in Cities :
         print ("-",city , end = " \n")
-    # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
+    # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs , This is Helpful
     while True :
         city = input ("please choose acity to view the  bikeshare data!").lower()
         if city not in  CITY_DATA :
